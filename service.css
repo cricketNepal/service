@@ -426,6 +426,8 @@ button{
     html{
         font-size: 48.6%;
     }
+    header{
+        width: 100vw;
     main{
         width: 360px;
     }
